@@ -1,10 +1,20 @@
-- Hi, I’m Jan;
-- I’m passionate about music, financial markets, and company valuations;
-- I’m currently honing my skills to become a great Data Scientist and working on DCF Model enchanced with Machine Learning techniques;
-- I’m looking to collaborate on projects focused on creating Generative AI tools (secure) that support transactional lawyers and provide clients with valuable second opinions;
-- How to reach me: It's easy, here on GitHub :);
-- Pronouns: he/ him/ his;
-- Fun fact: I’m a Japan enthusiast and plan to move there someday! I am also a transactional lawyer who is looking for a place where he can make a difference.
+Hi, I’m Jan!
+
+I work at the intersection of **Data Science, Finance, and Law**.
+
+- Building **DCF valuation models enhanced with Machine Learning**
+- Interested in **applied ML, probabilistic modeling, and Monte Carlo simulation**
+- Background as a **transactional lawyer**, focused on real-world decision support
+- Exploring **secure Generative AI tools** for finance and legal professionals
+
+I’m especially interested in projects involving:
+- Financial modeling & valuation
+- ML-driven forecasting
+- Risk, uncertainty, and decision-making under uncertainty
+
+You can reach me here on GitHub.
+
+**Fun fact:** I’m deeply interested in Japan and plan to move there in the future.
 
 <!---
 Hanami13/Hanami13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
