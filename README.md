@@ -1,4 +1,4 @@
-- Hi, I’m @Hanami13
+- Hi, I’m Jan;
 - I’m passionate about music, financial markets, and company valuations;
 - I’m currently honing my skills to become a great Data Scientist and working on DCF Model enchanced with Machine Learning techniques;
 - I’m looking to collaborate on projects focused on creating Generative AI tools (secure) that support transactional lawyers and provide clients with valuable second opinions;
